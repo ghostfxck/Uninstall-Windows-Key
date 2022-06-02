@@ -7,7 +7,7 @@ if %errorLevel% == 0 (
     echo Success: Administrative permissions confirmed.
     pause
 ) else (
-    echo Failure: Please rerun this batch file as administrator.
+    echo Failure: Please rerun this batch file as Administrator.
     pause
     exit
 )
